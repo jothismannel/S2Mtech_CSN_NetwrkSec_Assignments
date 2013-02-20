@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#tshirt1{
+	margin:0px auto;
+	border:1px solid black;
+	
+}
+
+#table{
+	position:absolute;
+	margin:10px auto;
+	left:100px;
+	
+	
+}
+#Buy{
+	position:absolute;
+	margin:390px auto;
+	left:500px;
+	
+	
+}
+#form_page2{
+	position:absolute;
+	margin:250px auto;
+	left:190px;
+}
+
